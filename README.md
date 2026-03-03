@@ -30,22 +30,24 @@ The dashboard has **four main pages**:
 
 1. **Overview**  
    - Total encounters, % over 24 hours, % zero payer coverage.  
-   - Screenshot: `screenshots/Overview.png`  
+   ![Overview](screenshots/Overview.png)
 
 2. **Encounter Classes**  
    - 100% Stacked Bar Chart showing encounter classes per year.  
    - Slicer: Year.  
-   - Screenshot: `screenshots/Encounters Analysis.png`  
+   ![Encounter Classes](screenshots/Encounters Analysis.png)  
+
 
 3. **Costs & Coverage**  
    - Top 10 procedures table with average cost.  
    - Average claim cost per payer table.  
-   - Screenshot: `screenshots/Cost & Coverage.png`  
+   ![Costs & Coverage](screenshots/Cost & Coverage.png) 
+
 
 4. **Patient Behavior**  
    - Line chart: unique patients per quarter.  
    - Table: top readmitted patients.  
    - Slicer: Year/Quarter.  
-   - Screenshot: `screenshots/Patient Analysis.png`  
+   ![Patient Behavior](screenshots/Patient Analysis.png)  
 
 ---

@@ -48,6 +48,6 @@ The dashboard has **four main pages**:
    - Line chart: unique patients per quarter.  
    - Table: top readmitted patients.  
    - Slicer: Year/Quarter.  
-   ![Patient Behavior](Patient_Behavior.png)  
+   ![Patient Behavior](screenshots/Patient_Behavior.png)  
 
 ---

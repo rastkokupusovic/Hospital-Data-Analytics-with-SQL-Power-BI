@@ -29,25 +29,31 @@ This project analyzes hospital data using **SQL** and visualizes insights in **P
 The dashboard has **four main pages**:
 
 1. **Overview**  
-   - Total encounters, % over 24 hours, % zero payer coverage.  
+   - Total encounters, total patients,Average claim cost,total encounters by year.
+   -Slicer:Year;  
    ![Overview](screenshots/Overview.png)
 
 2. **Encounter Classes**  
-   - 100% Stacked Bar Chart showing encounter classes per year.  
+   - total encounters by year 
+   - encounter class percentage 
+   - % of encounters over 24h and under 24h
    - Slicer: Year.  
    ![Encounter Classes](screenshots/Encounters_Analysis.png)  
 
 
 3. **Costs & Coverage**  
    - Top 10 procedures table with average cost.  
-   - Average claim cost per payer table.  
+   - How many encounters had zero payer coverage
+   - Precent of zero payer coverage
+   
    ![Costs & Coverage](screenshots/Cost_and_Coverage.png) 
 
 
 4. **Patient Behavior**  
-   - Line chart: unique patients per quarter.  
-   - Table: top readmitted patients.  
-   - Slicer: Year/Quarter.  
+   - number of readmitted patients within 30 days
+   - top readmitted patients within 30 days.  
+   - Patitens  per quarter
+   - Slicer: Name
    ![Patient Behavior](screenshots/Patient_Behavior.png)  
 
 ---

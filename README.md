@@ -35,19 +35,19 @@ The dashboard has **four main pages**:
 2. **Encounter Classes**  
    - 100% Stacked Bar Chart showing encounter classes per year.  
    - Slicer: Year.  
-   ![Encounter Classes](screenshots/Encounters Analysis.png)  
+   ![Encounter Classes](screenshots/Encounters_Analysis.png)  
 
 
 3. **Costs & Coverage**  
    - Top 10 procedures table with average cost.  
    - Average claim cost per payer table.  
-   ![Costs & Coverage](screenshots/Cost & Coverage.png) 
+   ![Costs & Coverage](screenshots/Cost_and_Coverage.png) 
 
 
 4. **Patient Behavior**  
    - Line chart: unique patients per quarter.  
    - Table: top readmitted patients.  
    - Slicer: Year/Quarter.  
-   ![Patient Behavior](screenshots/Patient Analysis.png)  
+   ![Patient Behavior](Patient_Behavior.png)  
 
 ---

@@ -30,14 +30,14 @@ The dashboard has **four main pages**:
 
 1. **Overview**  
    - Total encounters, total patients,Average claim cost,total encounters by year.
-   -Slicer:Year;  
+   - Slicer:Year
    ![Overview](screenshots/Overview.png)
 
 2. **Encounter Classes**  
    - total encounters by year 
    - encounter class percentage 
    - % of encounters over 24h and under 24h
-   - Slicer: Year.  
+   - Slicer: Year
    ![Encounter Classes](screenshots/Encounters_Analysis.png)  
 
 
